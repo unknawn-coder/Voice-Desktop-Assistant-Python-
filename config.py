@@ -1,0 +1,2 @@
+apikey ="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"
+api_key_weather = "923ea40c02533faa3d513bc142962e3b"
